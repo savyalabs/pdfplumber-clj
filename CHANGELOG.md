@@ -4,6 +4,12 @@ All notable changes to this project are documented here. Format follows [Keep a 
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-10-04
+
+### Changed
+
+- Bump `org.bouncycastle/bcpkix-jdk18on` to 1.86.
+
 ## [2.0.0] - 2026-08-30
 
 ### Fixed
