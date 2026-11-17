@@ -4,6 +4,12 @@ All notable changes to this project are documented here. Format follows [Keep a 
 
 ## [Unreleased]
 
+## [2.0.2] - 2026-11-16
+
+### Changed
+
+- Bump bouncycastle to 1.87.
+
 ## [2.0.1] - 2026-10-04
 
 ### Changed
